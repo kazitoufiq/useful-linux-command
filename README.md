@@ -6,3 +6,6 @@ This repo contains useful linux command
 cat /etc/os-release
 
 uname -r
+
+lsb_release -a
+
